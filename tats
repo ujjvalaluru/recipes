@@ -1,0 +1,90 @@
+[33mcommit 35cfeddb35f320b78ba8cc60b946c2d6500d4955[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: ujjval <ujjval@abcd.com>
+Date:   Thu Dec 28 09:57:50 2017 +0530
+
+    sdasdsa`
+
+[33mcommit 80d9152b1ac5e86f7d0c6177eb78a1ed9648d566[m
+Merge: 41672e7 acd2577
+Author: ujjval <ujjval@abcd.com>
+Date:   Thu Dec 28 09:57:25 2017 +0530
+
+    Msd
+    erge remote-tracking branch 'origin/master'
+
+[33mcommit 41672e7db89679eff73cc145176189829515f345[m
+Author: ujjval <ujjval@abcd.com>
+Date:   Thu Dec 28 09:48:09 2017 +0530
+
+    nsert comments before merge for correnting wrong merge from different opil to master
+
+[33mcommit acd2577cadc0197d8e21a6444c1970060893c1bb[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 0d3ad8a 7d5dd2b
+Author: ujjvalaluru <ujjvalaluru@users.noreply.github.com>
+Date:   Thu Dec 28 08:58:37 2017 +0530
+
+    Merge pull request #2 from ujjvalaluru/more-oil
+    
+    AluruUjjval Updated 2/3 cups of oil
+
+[33mcommit 7d5dd2b592c88ca5a4736c85f2ac23d8eb538668[m
+Author: aluruujjval <aluruhyd@gmail.com>
+Date:   Thu Dec 28 08:47:02 2017 +0530
+
+    AluruUjjval Updated 2/3 cups of oil
+
+[33mcommit 0d3ad8abc8e6fd4278259912a4ec9e1a811d077f[m
+Merge: c3d49c2 4ebec81
+Author: ujjval <ujjval@abcd.com>
+Date:   Wed Dec 27 20:14:29 2017 +0530
+
+    Merge remote-tracking branch 'origin/master'
+    removed the Cumit from the line where I added marshmeloows
+
+[33mcommit c3d49c22a3be66ddab4534146dd9c94bc03fb105[m
+Author: ujjval <ujjval@abcd.com>
+Date:   Wed Dec 27 19:43:11 2017 +0530
+
+    cmt002:  add some marshmelllows
+
+[33mcommit 4ebec81c3b3e3976d5819528ec7306ed0c9e62a3[m
+Author: ujjvalaluru <ujjvalaluru@users.noreply.github.com>
+Date:   Wed Dec 27 19:41:34 2017 +0530
+
+    updated chiillu txt on github UI to remove cumin
+
+[33mcommit e524f214fc48d5d2ccd1ef2c094ecdbb9e61db55[m
+Author: ujjval <ujjval@abcd.com>
+Date:   Wed Dec 27 19:14:35 2017 +0530
+
+    cmt001: Modified the chili recipe
+
+[33mcommit 15bd0e1c52c6e11aaea594cf9a63d19c2baea0ad[m
+Author: Larry Madrigal <larry@knowlabs.com>
+Date:   Wed Nov 16 13:51:52 2016 -0800
+
+    Update README.md
+
+[33mcommit a6a2f991a1bb60e1dec7c5d68c8393b70ea6f7f6[m
+Author: Larry Madrigal <larry@udacity.com>
+Date:   Thu Sep 25 11:08:27 2014 -0700
+
+    Add a chili recipe
+
+[33mcommit b36125034401bc8c6d3984c032f400f157a32c48[m
+Author: Larry Madrigal <larry@udacity.com>
+Date:   Thu Sep 25 11:08:01 2014 -0700
+
+    Add a cake and frosting recipe
+
+[33mcommit 2050b371fa487cb82e11e3b58d19edc92a19efc8[m
+Author: Larry Madrigal <larry@udacity.com>
+Date:   Thu Sep 25 10:38:53 2014 -0700
+
+    Add content to README
+
+[33mcommit 267c56d191a37aa1f412cdb7c07721bb9a12b54f[m
+Author: Larry Madrigal <larry@udacity.com>
+Date:   Thu Sep 25 10:38:11 2014 -0700
+
+    Initial commit
